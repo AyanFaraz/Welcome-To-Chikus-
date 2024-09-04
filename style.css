@@ -1,0 +1,123 @@
+.ibraheem {
+    font-size: xx-large;
+}
+
+
+.ayan {
+    color: white;
+    text-align: center;
+    padding-top: 800px;
+}
+
+.shahvaiz {
+    background-image: url(pexels-arunbabuthomas-1156684.jpg) !important;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.border {
+    text-align: center;
+    font-size: 80px;
+    border:20px solid black ;
+    border-radius: 30px;
+    background-color: black;
+}
+
+.border2 {
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.a1 {
+    text-decoration: black;  
+    color: #ffff;
+}
+
+.page098 {
+    height: 700x;
+    width: 700px;
+    margin-left: 120px;
+}
+
+.redmi {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 0px; 
+}
+
+.redmi2 {
+
+    font-family: 'Courier New', Courier, monospace;
+    background-color: grey;
+    color: white;
+    border: solid;
+    border-color: black;
+    border-radius: 100px;
+    border-width: 40px;  
+}
+
+.redmi3 {
+    background-size: cover;
+    background-position: center;
+    width: 400px;
+    height: 400px;
+    border: solid;
+    border-width: 30px; 
+}
+
+.redmi4 {
+    margin-left: 40px;
+    background-size: cover;
+    background-position: center;
+    width: 400px;
+    height: 400px;
+    border: solid;
+    border-width: 30px; 
+}
+
+.redmi5 {
+    margin-left: 55px;
+    text-decoration: none;
+    font-size: 85px;    
+}
+
+.redmi6 {
+
+    font-size: 85px;
+    margin-left: 280;
+    text-decoration: none;    
+}
+
+.redmi7 {
+    background-size: cover;
+    background-position: center;
+    width: 400px;
+    height: 400px;
+    border: solid;
+    border-width: 30px;    
+}
+
+.redmi8 {
+    margin-left: 40px;
+    background-size: cover;
+    background-position: center;
+    width: 400px;
+    height: 400px;
+    border: solid;
+    border-width: 30px;
+
+}
+
+.redmi9 {
+    margin-left: 70px;
+    text-decoration: none;
+    font-size: 85px;    
+}
+
+.redmi10 {
+    font-size: 85px;
+    margin-left: 280;
+    text-decoration: none;
+ 
+}
